@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abhisLens/static/css/main.1b83491f.chunk.css",
+    "main.js": "/abhisLens/static/js/main.1bf790a5.chunk.js",
+    "main.js.map": "/abhisLens/static/js/main.1bf790a5.chunk.js.map",
+    "runtime-main.js": "/abhisLens/static/js/runtime-main.8afd988a.js",
+    "runtime-main.js.map": "/abhisLens/static/js/runtime-main.8afd988a.js.map",
+    "static/js/2.0fc283a9.chunk.js": "/abhisLens/static/js/2.0fc283a9.chunk.js",
+    "static/js/2.0fc283a9.chunk.js.map": "/abhisLens/static/js/2.0fc283a9.chunk.js.map",
+    "index.html": "/abhisLens/index.html",
+    "precache-manifest.3644c9e3258125e23315e193bbec325c.js": "/abhisLens/precache-manifest.3644c9e3258125e23315e193bbec325c.js",
+    "service-worker.js": "/abhisLens/service-worker.js",
+    "static/css/main.1b83491f.chunk.css.map": "/abhisLens/static/css/main.1b83491f.chunk.css.map",
+    "static/js/2.0fc283a9.chunk.js.LICENSE.txt": "/abhisLens/static/js/2.0fc283a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8afd988a.js",
+    "static/js/2.0fc283a9.chunk.js",
+    "static/css/main.1b83491f.chunk.css",
+    "static/js/main.1bf790a5.chunk.js"
+  ]
+}
